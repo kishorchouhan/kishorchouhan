@@ -34,8 +34,3 @@
 (These render live on each visit — no scheduler needed. For richer/auto-refreshed metrics, add `lowlighter/metrics` via a free GitHub Action later.)
 
 ---
-
-## Also update your GitHub **bio** (Settings → Public profile)
-> Frontend Engineer · React/TS + React Native · real-time voice/telephony, widgets/SDKs & browser extensions · AI-native
-
-Set **Company** = SquadStack, **Location** = India, and turn ON "Available for hire".
